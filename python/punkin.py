@@ -72,4 +72,5 @@ while True:
         window.update()
         count += 1
         start = time.time() # Reset timer
+        # un comentario sin comentar >S
 turtle.done()
